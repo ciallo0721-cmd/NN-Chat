@@ -57,7 +57,6 @@ NN-Chat/
 ├── picture/         # 上传的图片文件
 ├── sf/              # 上传的文件
 ├── deliverables/    # 附属交付物
-├── payload.js       # ⚠️ WebShell 入口（HTML 内容，.js 后缀仅为绕过检测）
 ├── chat.db          # SQLite 数据库（自动生成）
 ├── chat.log         # 运行日志（启动记录、管理操作日志）
 ├── blank.png        # 占位/空白图片
